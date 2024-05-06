@@ -7,6 +7,7 @@
                 "static.cloudflareinsights.com"
             ],
             "domain_suffix": [
+                "openai.com",
                 "ai.com",
                 "algolia.net",
                 "api.statsig.com",
